@@ -1,0 +1,10 @@
+# Site settings
+title: occlusion tools
+description: Occlusion game tools
+github_username: occlusion
+markdown: kramdown
+encoding: utf-8
+permalink: /:title.html
+
+kramdown:
+  parse_block_html: true
